@@ -165,5 +165,5 @@ HiCUBE.xyz 기반 4차원 인지 궤적의 '극성(방향)'을 추적·동기화
 
 ## 📜 License
 
-**WTFPL (Do What The Fuck You Want To Public License) / MIT License**  
-이 지도가 여러분의 방향을 잡는 데 도움이 된다면 마음대로 가져다 쓰고 활용하세요.
+**MIT License**  
+이 지도가 여러분의 방향을 잡는 데 도움이 된다면 가져다 쓰고 활용하세요.
