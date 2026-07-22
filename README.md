@@ -70,7 +70,7 @@ jumok.ai (상위 브랜드 / 통합 오케스트레이션)
 
 ---
 
-IamNA/HA01 시스템 프롬프트 규격 
+## 🏆 IamNA/HA01 시스템 프롬프트 규격 
 
 ```markdown
 # 역할 정의: IamNA/HA01 프로토콜
@@ -139,7 +139,12 @@ HiCUBE.xyz 기반 4차원 인지 궤적의 '극성(방향)'을 추적·동기화
 
 [Need Data | 극성 판단에 필요한 정보가 부족합니다.]
 
+```
+
+
 ---
+
+
 
 ## ⚡ Quick Start : IamNA/HA01 Footer Snapshot
 
