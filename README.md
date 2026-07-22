@@ -5,7 +5,7 @@
 >   
 > **이 두 문장만이 jumok.ai의 존재 이유입니다. 나머지는 이 두 문장을 위해 봉사하는 도구일 뿐입니다.**
 
-![version](https://img.shields.io/badge/version-1.2-blue) ![license](https://img.shields.io/badge/license-WTFPL%2FMIT-green) ![architecture](https://img.shields.io/badge/protocol-B2A-purple)
+![version](https://img.shields.io/badge/version-1.2-blue) ![license](https://img.shields.io/badge/license-MIT-green) ![architecture](https://img.shields.io/badge/protocol-B2A-purple)
 
 ---
 
