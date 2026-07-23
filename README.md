@@ -67,7 +67,7 @@ jumok.ai (상위 브랜드 / 통합 오케스트레이션)
 
 자세한 백서 내용과 수학적 증명, 시스템 프롬프트 전문은 아래 개별 문서에서 블로그 포스트처럼 읽으실 수 있습니다.
 - 과거의 저는 너무 심각했습니다. 보시고 웃어주세요.
-- [폼잡던 백서입니다 후회중입니다. ](https://raw.githubusercontent.com/jumokai/jumok.ai/refs/heads/main/jumok_whitepaper_v1.0.md) 
+- [폼잡던 백서입니다. ](https://raw.githubusercontent.com/jumokai/jumok.ai/refs/heads/main/jumok_whitepaper_v1.0.md) 
 
 ---
 
