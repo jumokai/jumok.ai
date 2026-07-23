@@ -1,5 +1,9 @@
 # 🎲 jumok.ai : 최소 공통 인지 좌표계
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2f4520e4-3826-41a5-a164-9b3540a9f69e" alt="Image" width="300" height="auto">
+</div>
+
 > **"사람이 읽기 쉬워지면 AI도 이해하기 쉬워진다."**  
 > **"조잡한 지도라도 최소한 방향은 안내할 수 있는 지도를 만들자."**  
 >   
