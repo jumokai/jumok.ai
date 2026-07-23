@@ -346,5 +346,28 @@ $$D_{ij} = \Vert{}\Delta P_{ij}\Vert{}$$
 |     |                             |                      |
 
 
+## 💡 HiCUBE 32-Phase Cognitive RAG Chunking
+
+기존의 단순 길이/의미 단위 청킹을 넘어, 4축 극성($2^4=16$)과 수렴/발산 Dynamics($\pm2$)를 결합한 **32분기 인지 위상 벡터(Cognitive Vector)** 기준 청킹 기법입니다.
+
+### Core Concept
+
+- **수렴 (`-00-`)**: 내면/맥락 중심으로 정보를 고정 및 확정하는 문단
+    
+- **발산 (`+00+`)**: 관계/시스템 중심으로 구조를 확장 및 탐구하는 문단
+    
+- **32-Phase Labeling**: 문단의 인지 위상을 32가지 분기로 레이블링하여 Vector DB의 검색 정밀도를 극대화합니다.
+    
+
+### Prompt Instruction Example
+
+Plaintext
+
+```
+"제시된 내용을 HiCUBE의 축(X·Y·Z·W) 및 수렴/발산 상태로 구별되는 최소 단위로 문단을 분할하라."
+```
+
+> 📌 **Effect**: 단순 단어 유사도 검색을 넘어, 질문자의 인지 상태와 문서의 위상을 매칭하여 RAG 검색 환각(Hallucination) 및 엇갈림 현상을 줄여줍니다.
+
 
 
