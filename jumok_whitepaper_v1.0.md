@@ -348,6 +348,12 @@ $$D_{ij} = \Vert{}\Delta P_{ij}\Vert{}$$
 
 ## 💡 HiCUBE 32-Phase Cognitive RAG Chunking
 
+
+
+>"충분히 많은 “나의 사고 흔적”이 좌표 단위로 정리되어 있으면,
+  검색은 정보 회수가 아니라 사고 정책(policy) 회수가 된다."
+
+
 기존의 단순 길이/의미 단위 청킹을 넘어, 4축 극성($2^4=16$)과 수렴/발산 Dynamics($\pm2$)를 결합한 **32분기 인지 위상 벡터(Cognitive Vector)** 기준 청킹 기법입니다.
 
 ### Core Concept
