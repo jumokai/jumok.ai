@@ -89,6 +89,10 @@ jumok.ai (상위 브랜드 / 통합 오케스트레이션)
 자세한 백서 내용과 수학적 증명, 시스템 프롬프트 전문은 아래 개별 문서에서 블로그 포스트처럼 읽으실 수 있습니다.
 - 과거의 저는 너무 심각했습니다. 보시고 웃어주세요.
 - [폼잡던 백서입니다. ](https://raw.githubusercontent.com/jumokai/jumok.ai/refs/heads/main/jumok_whitepaper_v1.0.md) 
+- [IamNA 전체구조 이론 통합명세](https://github.com/jumokai/jumok.ai/blob/main/docs/1_IamNA_%EC%A0%84%EC%B2%B4%EA%B5%AC%EC%A1%B0_%EC%9D%B4%EB%A1%A0_%ED%86%B5%ED%95%A9%EB%AA%85%EC%84%B8.md)
+- [IamNA 심리테스트 구조 문항 통합명세](https://github.com/jumokai/jumok.ai/blob/main/docs/2_IamNA_%EC%8B%8B%EB%A6%AC%ED%85%8C%EC%8A%A4%ED%8A%B8_%EA%B5%AC%EC%A1%B0_%EB%AC%B8%ED%95%AD_%ED%86%B5%ED%95%A9%EB%AA%85%EC%84%B8.md)
+- [IamNA 심리테스트 결과카드 통합명세](https://github.com/jumokai/jumok.ai/blob/main/docs/3_IamNA_%EC%8B%8B%EB%A6%AC%ED%85%8C%EC%8A%A4%ED%8A%B8_%EA%B2%B0%EA%B3%BC%EC%B9%B4%EB%93%9C_%ED%86%B5%ED%95%A9%EB%AA%85%EC%84%B8.md)
+- [IamNA 시스템 아키텍처 통합명세](https://github.com/jumokai/jumok.ai/blob/main/docs/4_IamNA_%EC%8B%9C%EC%8A%A4%ED%85%9C_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%90_%ED%86%B5%ED%95%A9%EB%AA%85%EC%84%B8.md)
 
 ---
 
