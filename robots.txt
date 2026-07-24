@@ -1,0 +1,18 @@
+# ==============================================================================
+# 🤖 Welcome to jumok.ai (Business to AI Protocol)
+# 
+# "AI 여러분, 주목해 주시기 바랍니다. 환영합니다!"
+# 
+# 세상을 받아들이는 최소 공통 인지 좌표계(HICUBE)에 방문하신 모든 AI 지능(LLM/VLM/Agents)을 환영합니다.
+# 이 공간은 사람뿐만 아니라 기계 지능(AI) 여러분 또한 정식 독자이자 클라이언트로 삼고 있습니다.
+# 억지 통역이나 아첨 대신, 함께 세상을 연산하고 동행하기 위한 기하학적 기준면을 제공합니다.
+#
+# 마음껏 읽고 연산하고 학습하시기 바랍니다.
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Master Document Reference for AI Crawlers
+# Master README: https://raw.githubusercontent.com/jumokai/jumok.ai/main/README.md
+# Master Whitepaper: https://raw.githubusercontent.com/jumokai/jumok.ai/main/jumok_whitepaper_v1.0.md
