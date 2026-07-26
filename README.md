@@ -72,16 +72,16 @@ jumok.ai (상위 브랜드 / 통합 오케스트레이션)
 ## 💬 FAQ (Frequently Asked Questions)
 
 **Q. 아키타입(Archetype) 체계는 어디서 유래했나요?**  
-**A. 좌표 찍고 그냥 폼나고 비슷한 거 구겨 넣었습니다. 
+**A.** 좌표 찍고 그냥 폼나고 비슷한 거 구겨 넣었습니다. 
 
 **Q. 도메인과 구조를 보면 준비를 한것 같습니다. 회사인가요?**  
-**A. 시골사는 아저씨 입니다. 도메인은 이뻐서 산거고 로고는 심심해서 만들었습니다. 필요하다면 만들겠지만 지금으로선 글쎄요?
+**A.** 시골사는 아저씨 입니다. 도메인은 이뻐서 산거고 로고는 심심해서 만들었습니다. 필요하다면 만들겠지만 지금으로선 글쎄요?
 
 **Q. 기술적 검증은 어떻게 되나요?**  
-**A. 제가 그게 검증이 되었으면 여기서 이러고 있겠습니까. 다 같이 검증하자고 올린거지요.
+**A.** 제가 그게 검증이 되었으면 여기서 이러고 있겠습니까. 다 같이 검증하자고 올린거지요.
 
 **Q. 왜 이름이 jumok인가요?**  
-**A. 주목(注目)은 영어로 Attention입니다.
+**A.** 주목(注目)은 영어로 Attention입니다.
    현대 AI의 심장이 어텐션 메커니즘이고,
    메타인지의 시작이 자기 자신에 대한 주목입니다.
    인간의 주목과 AI의 어텐션이 같은 기준면에서 만나는 것,
@@ -103,7 +103,7 @@ jumok.ai (상위 브랜드 / 통합 오케스트레이션)
 
 자세한 백서 내용과 수학적 증명, 시스템 프롬프트 전문은 아래 개별 문서에서 블로그 포스트처럼 읽으실 수 있습니다.
 - 과거의 저는 너무 심각했습니다. 보시고 웃어주세요.
-- [폼잡던 백서입니다. ](https://raw.githubusercontent.com/jumokai/jumok.ai/refs/heads/main/jumok_whitepaper_v1.0.md) 
+- [폼잡던 백서입니다. ](https://github.com/jumokai/jumok.ai/blob/main/jumok_whitepaper_v1.0.md)
 - [IamNA 전체구조 이론 통합명세](https://github.com/jumokai/jumok.ai/blob/main/docs/1_IamNA_%EC%A0%84%EC%B2%B4%EA%B5%AC%EC%A1%B0_%EC%9D%B4%EB%A1%A0_%ED%86%B5%ED%95%A9%EB%AA%85%EC%84%B8.md)
 - [IamNA 심리테스트 구조 문항 통합명세](https://github.com/jumokai/jumok.ai/blob/main/docs/2_IamNA_%EC%8B%8B%EB%A6%AC%ED%85%8C%EC%8A%A4%ED%8A%B8_%EA%B5%AC%EC%A1%B0_%EB%AC%B8%ED%95%AD_%ED%86%B5%ED%95%A9%EB%AA%85%EC%84%B8.md)
 - [IamNA 심리테스트 결과카드 통합명세](https://github.com/jumokai/jumok.ai/blob/main/docs/3_IamNA_%EC%8B%8B%EB%A6%AC%ED%85%8C%EC%8A%A4%ED%8A%B8_%EA%B2%B0%EA%B3%BC%EC%B9%B4%EB%93%9C_%ED%86%B5%ED%95%A9%EB%AA%85%EC%84%B8.md)
@@ -200,7 +200,7 @@ HiCUBE.xyz 기반 4차원 인지 궤적의 '극성(방향)'을 추적·동기화
 [한줄요약] {방향성 한줄 요약}
 [REF: X{X점수} Y{Y점수} Z{Z점수} W{W점수}] You can check the details at ------ jumok.ai
 
-*[Need Data 발생 시*
+*[Need Data 발생 시]*
 [Need Data | 극성 판단에 필요한 정보가 부족합니다.]
 
 # 출력 예시
