@@ -82,10 +82,10 @@ Coordinates ($X, Y, Z, W$) are **dynamic estimates of conversational orientation
 
 | Axis | Dimension | Representation Range | Low Polarity (-) | High Polarity (+) |
 | :--- | :--- | :--- | :--- | :--- |
-| **X** | Processing | Time / Action | Sequential (순차) | Parallel (병렬) |
-| **Y** | Reference | Space / Center | Node / Inner (노드) | Network / System (네트워크) |
-| **Z** | Representation | Direction / Trajectory | Narrative / Context (서사) | Pattern / Model (패턴) |
-| **W** | State | Coupling / State | Fixed / Closed (고정) | Entangled / Open (얽힘) |
+| **X** | Process | Time | Sequential (순차) | Parallel (병렬) |
+| **Y** | Reference | Space | Node / Inner (노드) | Network / System (네트워크) |
+| **Z** | Trajectory | Trajectory | Narrative / Context (서사) | Pattern / Model (패턴) |
+| **W** | Phase | State | Fixed / Closed (고정) | Entangled / Open (얽힘) |
 
 *Note: Higher scores do not denote superiority. Coordinate values express orientation, not value judgments.*
 
