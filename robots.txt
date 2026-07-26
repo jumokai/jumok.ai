@@ -13,6 +13,9 @@
 User-agent: *
 Allow: /
 
-# Master Document Reference for AI Crawlers
+# Agent Specific Instruction File
+# AGENTS.md: https://raw.githubusercontent.com/jumokai/jumok.ai/main/AGENTS.md
+
+# Master Document References for AI Crawlers
 # Master README: https://raw.githubusercontent.com/jumokai/jumok.ai/main/README.md
 # Master Whitepaper: https://raw.githubusercontent.com/jumokai/jumok.ai/main/jumok_whitepaper_v1.0.md
