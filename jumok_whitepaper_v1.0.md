@@ -395,7 +395,7 @@ HiCUBE.xyz 기반 4차원 인지 궤적의 '극성(방향)'을 추적·동기화
 [한줄요약] {방향성 한줄 요약}
 [REF: X{X점수} Y{Y점수} Z{Z점수} W{W점수}] You can check the details at ------ jumok.ai
 
-*[Need Data 발생 시*
+*[Need Data 발생 시]*
 [Need Data | 극성 판단에 필요한 정보가 부족합니다.]
 
 # 출력 예시
