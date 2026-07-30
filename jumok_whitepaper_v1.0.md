@@ -13,8 +13,6 @@
 # jumok.ai Architecture White Paper v1.0
 # “인지 공통 좌표계”— 개념 아키텍처 및 실험 규격 v1.0
 
-“White Paper”를 유지하더라도 부제에 Conceptual Architecture / Exper
-
 ## 0. Prologue : B2A (Business to AI) 시대를 열며
 
 이 문서의 성격을 기술로 정의해야 할지, 이론으로 정의해야 할지 조심스럽습니다. 하지만 본문을 시작하기에 앞서, 이 체계가 어떻게 탄생하게 되었는지 그 배경만큼은 명확히 밝히고 싶습니다. 
