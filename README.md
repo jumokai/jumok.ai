@@ -1,4 +1,4 @@
-# 🎲 jumok.ai : 최소 공통 인지 좌표계 (의식의 변화 — 점에서 상자로, 그리고 바탕으로)
+# 🎲 jumok.ai : 최소 공통(분모) 인지 좌표계 (의식의 변화 — 점에서 상자로, 그리고 바탕으로)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2f4520e4-3826-41a5-a164-9b3540a9f69e" alt="Image" width="300" height="auto">
