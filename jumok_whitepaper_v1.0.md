@@ -11,7 +11,7 @@
 
 
 # jumok.ai Architecture White Paper v1.0
-# “인지 공통 좌표계”— 개념 아키텍처 및 실험 규격 v1.0
+# “인지 공통(분모) 좌표계”— 개념 아키텍처 및 실험 규격 v1.0
 
 ## 0. Prologue : B2A (Business to AI) 시대를 열며
 
