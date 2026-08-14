@@ -61,7 +61,7 @@ jumok.ai (상위 브랜드 / 통합 오케스트레이션)
 ## 🧩 HICUBE 4-Axis Quick Reference
 
 
-### X, Y, Z, W 축 기본 정의
+### X, Y, Z축 기본 정의
 
 
 > **세상(World)은 우리가 마주하는 사건과 관계가 함께 존재하는 장이다.**
